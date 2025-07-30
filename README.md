@@ -1,4 +1,4 @@
-# Adorable
+# Qreatify
 
 Open-source version of **Lovable** - an AI agent that can make websites and apps through a chat interface.
 
@@ -43,7 +43,7 @@ Open-source version of **Lovable** - an AI agent that can make websites and apps
 
    ```
    # Database
-   DATABASE_URL=postgresql://username:password@localhost:5432/adorable
+   DATABASE_URL=postgresql://username:password@localhost:5432/q
 
    # Anthropic API
    ANTHROPIC_API_KEY=your_anthropic_api_key
